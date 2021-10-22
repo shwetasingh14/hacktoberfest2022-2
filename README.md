@@ -3,7 +3,7 @@
 ---
 
 Rules:
-1. Add Category and webites if it is not present.
+1. Add Category and webites if it is not present with proper formatting.
 2. Read Rule number 1.
 
 ---
