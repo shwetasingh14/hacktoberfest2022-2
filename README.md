@@ -173,3 +173,6 @@ https://w3schools.com
 
 53. FlexBoxFroggy -
 https://flexboxfroggy.com/
+
+54. Animated Background -
+https://animatedbackgrounds.me/
