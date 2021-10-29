@@ -176,3 +176,6 @@ https://flexboxfroggy.com/
 
 54. Animated Background -
 https://animatedbackgrounds.me/
+
+55. DeviIcon
+https://devicon.dev/
