@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-       <img src="https://raw.githubusercontent.com/DhananjayPorwal/hacktoberfest2022/main/example/Desktop%20BG%204K%20Dark%20Mode.png">
+       <img src="https://raw.githubusercontent.com/DhananjayPorwal/hacktoberfest2021/main/example/Desktop%20BG%204K%20Dark%20Mode.png">
     </a>
 </p>
 
@@ -11,17 +11,21 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/DhananjayPorwal" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/DhananjayPorwal/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/DhananjayPorwal/hacktoberfest2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/DhananjayPorwal/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DhananjayPorwal/hacktoberfest2021?color=2b9348"></a>
-<a href="https://github.com/DhananjayPorwal/hacktoberfest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DhananjayPorwal/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/DhananjayPorwal/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/DhananjayPorwal/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/DhananjayPorwal/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DhananjayPorwal/hacktoberfest2022?color=2b9348"></a>
+<a href="https://github.com/DhananjayPorwal/hacktoberfest2022/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DhananjayPorwal/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
-Follow US:
-[Dhananjay Porwal](https://github.com/DhananjayPorwal) |
-[Avinash Kumar](https://github.com/avi0901) |
-[Devansh Lodhi](https://github.com/Ghost1129) |
-[Apoorva Vairagi](https://github.com/codesAliecc)
+Follow:
+[Dhananjay Porwal](https://github.com/DhananjayPorwal)
+
+> Star this Repository
+
+---
+
+# ⚠ You have to contribute in the file [contribution.md](https://github.com/DhananjayPorwal/hacktoberfest2022/blob/main/Contribution.md)
+
 ---
 
 Official Telegram Group: [Join Now](https://t.me/virtualmeetinghacktoberfest) 
