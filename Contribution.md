@@ -182,3 +182,6 @@ https://devicon.dev/
 
 56. Learn React
 https://www.taniarascia.com/getting-started-with-react/
+
+57. Learn Web3
+https://learnweb3.io/courses
