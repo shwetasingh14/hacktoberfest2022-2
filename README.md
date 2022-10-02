@@ -20,7 +20,7 @@
 Follow:
 [Dhananjay Porwal](https://github.com/DhananjayPorwal)
 
-> Star this Repository
+> 🌟 Star this Repository
 
 ---
 
