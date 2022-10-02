@@ -179,3 +179,6 @@ https://animatedbackgrounds.me/
 
 55. DeviIcon
 https://devicon.dev/
+
+56. Color Palette
+https://colorhunt.co/
