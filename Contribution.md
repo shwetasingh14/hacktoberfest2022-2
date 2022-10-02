@@ -179,3 +179,6 @@ https://animatedbackgrounds.me/
 
 55. DeviIcon
 https://devicon.dev/
+
+56. Learn web3
+https://learnweb3.io/courses
