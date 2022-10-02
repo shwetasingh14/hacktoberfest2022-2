@@ -179,3 +179,6 @@ https://animatedbackgrounds.me/
 
 55. DeviIcon
 https://devicon.dev/
+
+56. Learn React
+https://www.taniarascia.com/getting-started-with-react/
