@@ -8,7 +8,7 @@ Rules:
 
 ---
 
-[How to create pull request?](https://github.com/DhananjayPorwal/hacktoberfest2021#readme)
+[How to create pull request?](https://github.com/DhananjayPorwal/hacktoberfest2022#readme)
 
 
 ---
