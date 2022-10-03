@@ -180,8 +180,14 @@ https://animatedbackgrounds.me/
 55. DeviIcon
 https://devicon.dev/
 
-56. Learn React
-https://www.taniarascia.com/getting-started-with-react/
+56. Codepen
+https://codepen.io/
 
-57. Learn Web3
+57. Color Palette
+https://colorhunt.co/
+
+58. Learn wWeb3
 https://learnweb3.io/courses
+
+59. Learn React
+https://www.taniarascia.com/getting-started-with-react/
