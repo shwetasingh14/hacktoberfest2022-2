@@ -78,4 +78,4 @@ STEP 3:
 
 ### Contributers 🏆
 
-![](https://contrib.rocks/image?repo=DhananjayPorwal/awesooome-Sites)
+![](https://contrib.rocks/image?repo=DhananjayPorwal/hacktober2022)
