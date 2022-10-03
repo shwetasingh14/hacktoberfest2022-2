@@ -199,5 +199,5 @@ https://nextjs.org/
 https://dev.to/
 
 62. Learn JavaScript
-https://javascript.info/
+https://javascript.info/ <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
