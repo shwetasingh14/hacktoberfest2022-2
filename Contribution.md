@@ -191,3 +191,7 @@ https://learnweb3.io/courses
 
 59. Learn React
 https://www.taniarascia.com/getting-started-with-react/
+
+60. Learn JavaScript
+https://javascript.info/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
