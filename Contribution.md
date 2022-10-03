@@ -192,9 +192,12 @@ https://learnweb3.io/courses
 59. Learn React
 https://www.taniarascia.com/getting-started-with-react/
 
-60. Dev.to
+60. Learn NextJs
+https://nextjs.org/
+
+61. Dev.to
 https://dev.to/
 
-61. Learn JavaScript
+62. Learn JavaScript
 https://javascript.info/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
