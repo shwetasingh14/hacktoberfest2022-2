@@ -180,5 +180,8 @@ https://animatedbackgrounds.me/
 55. DeviIcon
 https://devicon.dev/
 
-56. Color Palette
+56. Codepen
+https://codepen.io/
+
+57. Color Palette
 https://colorhunt.co/
