@@ -182,3 +182,6 @@ https://devicon.dev/
 
 56. Codepen
 https://codepen.io/
+
+57. Color Palette
+https://colorhunt.co/
