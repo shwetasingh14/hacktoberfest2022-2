@@ -194,3 +194,10 @@ https://www.taniarascia.com/getting-started-with-react/
 
 60. Learn NextJs
 https://nextjs.org/
+
+61. Dev.to
+https://dev.to/
+
+62. Learn JavaScript
+https://javascript.info/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
