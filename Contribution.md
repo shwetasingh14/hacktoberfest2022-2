@@ -180,5 +180,11 @@ https://animatedbackgrounds.me/
 55. DeviIcon
 https://devicon.dev/
 
-56. Learn web3
+56. Codepen
+https://codepen.io/
+
+57. Color Palette
+https://colorhunt.co/
+
+58. Learn web3
 https://learnweb3.io/courses
