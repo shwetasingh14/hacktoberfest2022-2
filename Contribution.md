@@ -186,6 +186,12 @@ https://codepen.io/
 57. Color Palette
 https://colorhunt.co/
 
+58. Learn wWeb3
+https://learnweb3.io/courses
+
+59. Learn React
+https://www.taniarascia.com/getting-started-with-react/
+
 58. Learn web3
 https://learnweb3.io/courses
 
