@@ -201,3 +201,12 @@ https://dev.to/
 62. Learn JavaScript
 https://javascript.info/ <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+63. javaTpoint 
+https://www.javatpoint.com/
+
+64. FreeCodeCamp
+https://www.freecodecamp.org/
+
+65. Awesome Fonts
+https://fontawesome.com/
