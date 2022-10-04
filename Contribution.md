@@ -199,8 +199,7 @@ https://nextjs.org/
 https://dev.to/
 
 62. Learn JavaScript
-https://javascript.info/ <br>
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://javascript.info/ | https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 63. OverAPI
 https://overapi.com/
