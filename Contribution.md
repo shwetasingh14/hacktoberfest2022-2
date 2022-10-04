@@ -215,3 +215,6 @@ https://www.freecodecamp.org/
 
 67. Awesome Fonts
 https://fontawesome.com/
+
+68. Learn Sql
+https://sqlbolt.com/
