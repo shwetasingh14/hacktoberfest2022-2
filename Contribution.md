@@ -13,7 +13,7 @@ Rules:
 
 ---
 
-Great Websites For Web Developers 
+Great Websites For Developers 
 
 1. Hidden Tools -
 https://hiddentools.dev/
