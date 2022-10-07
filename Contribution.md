@@ -224,3 +224,6 @@ https://www.geeksforgeeks.org/
 
 70. Play Video Games Online - Poki
 https://poki.com/
+
+71. Website with Free Tools for developers.
+https://free-for.dev/
