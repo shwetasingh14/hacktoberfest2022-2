@@ -204,7 +204,7 @@ https://javascript.info/ | https://developer.mozilla.org/en-US/docs/Web/JavaScri
 63. OverAPI
 https://overapi.com/
 
-64.Code Beautify
+64. Code Beautify
 https://codebeautify.org/
 
 65. javaTpoint 
@@ -227,3 +227,6 @@ https://poki.com/
 
 71. Website with Free Tools for developers.
 https://free-for.dev/
+
+72. Beecrowd
+https://www.beecrowd.com.br/judge/en/login?origem=1
