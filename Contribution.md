@@ -227,3 +227,6 @@ https://poki.com/
 
 71. Website with Free Tools for developers.
 https://free-for.dev/
+
+72. Hashnode - Website with Informative Blogs for Developers
+https://hashnode.com/
