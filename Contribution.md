@@ -230,3 +230,6 @@ https://free-for.dev/
 
 72. Beecrowd
 https://www.beecrowd.com.br/judge/en/login?origem=1
+
+73. Hashnode - Website with Informative Blogs for Developers
+https://hashnode.com/
