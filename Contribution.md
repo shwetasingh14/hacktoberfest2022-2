@@ -234,5 +234,8 @@ https://www.beecrowd.com.br/judge/en/login?origem=1
 73. Hashnode - Website with Informative Blogs for Developers
 https://hashnode.com/
 
-74. Material.io - Latest version of Material Design  for Android
+74. Copyassignment - Experts of social media platforms like Instagram and YouTube
+https://copyassignment.com/
+
+75. Material.io - Latest version of Material Design  for Android
 https://material.io/develop/android
