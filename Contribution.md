@@ -233,3 +233,6 @@ https://www.beecrowd.com.br/judge/en/login?origem=1
 
 73. Hashnode - Website with Informative Blogs for Developers
 https://hashnode.com/
+
+74. Copyassignment - Experts of social media platforms like Instagram and YouTube
+https://copyassignment.com/
