@@ -239,3 +239,7 @@ https://copyassignment.com/
 
 75. Material.io - Latest version of Material Design  for Android
 https://material.io/develop/android
+
+Freelancing Websites for Developers
+
+1. Fiverr - https://www.fiverr.com/?source=top_nav
