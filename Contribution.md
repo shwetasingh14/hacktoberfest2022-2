@@ -247,3 +247,5 @@ https://source.unsplash.com/random
 
 78. Free images source
 https://www.pexels.com/ | https://pixabay.com/
+
+79. Board Infinity - https://www.boardinfinity.com/
