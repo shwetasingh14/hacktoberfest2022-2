@@ -247,3 +247,9 @@ https://source.unsplash.com/random
 
 78. Free images source
 https://www.pexels.com/ | https://pixabay.com/
+
+79. Animate.css - CSS library for pre-built CSS animations
+https://animate.style/
+
+80. EditorX - Make your own website with just a few clicks and drag and drop.
+https://www.editorx.com/
