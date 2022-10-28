@@ -250,3 +250,9 @@ https://www.pexels.com/ | https://pixabay.com/
 
 79. Typeform - Create forms, surveys, and quizzes that people enjoy answering
 https://www.typeform.com/
+
+80. Animate.css - CSS library for pre-built CSS animations
+https://animate.style/
+
+81. EditorX - Make your own website with just a few clicks and drag and drop.
+https://www.editorx.com/
